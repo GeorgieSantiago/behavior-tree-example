@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.16.0.2">
+	<node type="NodeDummy" id="1875584768" name="material_ball">
+		<transform>1 2.646978e-22 -3.8213714e-15 0.0 9.2644229e-23 1 8.7422777e-08 0.0 3.8213714e-15 -8.7422777e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="710940554" name="material_ball">
+			<mesh_name>guid://d66c38d3cb2ce8161c55807d4a2d47b80c46e7b7</mesh_name>
+			<surface name="material_ball_mat_lod_0" max_visible_distance="3" material="2d2814767f25015d91f013182a937b973ae9640a"/>
+			<surface name="material_ball_mat_lod_1" min_visible_distance="3" max_visible_distance="9" material="2d2814767f25015d91f013182a937b973ae9640a"/>
+			<surface name="material_ball_mat_lod_2" min_visible_distance="9" material="2d2814767f25015d91f013182a937b973ae9640a"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

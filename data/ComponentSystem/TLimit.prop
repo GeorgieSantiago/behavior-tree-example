@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.16.0.2" name="TLimit" manual="1" parent_name="node_base">
+	<parameter name="target" type="node">0</parameter>
+	<parameter name="limit" type="int">1</parameter>
+</property>

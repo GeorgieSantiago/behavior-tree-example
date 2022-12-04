@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>53534b98304f2dc7138b1fdb937045284179397a</guid>
+	<type>property</type>
+	<hash>16e306ba</hash>
+	<runtimes>
+		<runtime id="53534b98304f2dc7138b1fdb937045284179397a" name="ABehaviorTree" link="0" type="4"/>
+	</runtimes>
+</asset>

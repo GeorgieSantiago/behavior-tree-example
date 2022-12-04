@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>b6af968cbf0bec1d76187a9e5dc53aa788600795</guid>
+	<type>property</type>
+	<hash>42ae7fb8</hash>
+	<runtimes>
+		<runtime id="b6af968cbf0bec1d76187a9e5dc53aa788600795" name="CSelector" link="0" type="4"/>
+	</runtimes>
+</asset>

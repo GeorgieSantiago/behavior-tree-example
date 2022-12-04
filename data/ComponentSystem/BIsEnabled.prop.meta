@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>4056e97c5f17f663b5feedc99fc57bcd4bb9b8dd</guid>
+	<type>property</type>
+	<hash>1c381044</hash>
+	<runtimes>
+		<runtime id="4056e97c5f17f663b5feedc99fc57bcd4bb9b8dd" name="BIsEnabled" link="0" type="4"/>
+	</runtimes>
+</asset>

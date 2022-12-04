@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>626a3ed75c7a23889ffeed3d2746e70174f6a70e</guid>
+	<type>property</type>
+	<hash>1f4cb646</hash>
+	<runtimes>
+		<runtime id="626a3ed75c7a23889ffeed3d2746e70174f6a70e" name="CSequence" link="0" type="4"/>
+	</runtimes>
+</asset>

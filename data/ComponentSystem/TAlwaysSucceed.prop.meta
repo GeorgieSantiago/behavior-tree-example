@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>c79635a041da5ac008c6243a50593eb6abaa885f</guid>
+	<type>property</type>
+	<hash>1c5e8a9c</hash>
+	<runtimes>
+		<runtime id="c79635a041da5ac008c6243a50593eb6abaa885f" name="TAlwaysSucceed" link="0" type="4"/>
+	</runtimes>
+</asset>

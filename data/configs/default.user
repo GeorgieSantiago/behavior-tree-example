@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user version="2.16.0.2" autosave="1">
+	<console_height>75</console_height>
+	<console_key>17</console_key>
+	<console_onscreen>0</console_onscreen>
+	<console_onscreen_font_size>14</console_onscreen_font_size>
+	<console_onscreen_height>20</console_onscreen_height>
+	<console_onscreen_time>2</console_onscreen_time>
+	<console_wrapping>0</console_wrapping>
+	<microprofile_dump_frames>500</microprofile_dump_frames>
+	<microprofile_enabled>1</microprofile_enabled>
+	<microprofile_webserver_frames>200</microprofile_webserver_frames>
+	<physics_show_collision_surfaces>0</physics_show_collision_surfaces>
+	<physics_show_contacts>0</physics_show_contacts>
+	<physics_show_joints>0</physics_show_joints>
+	<physics_show_shapes>0</physics_show_shapes>
+	<render_show_alpha_test>0</render_show_alpha_test>
+	<render_show_ambient>0</render_show_ambient>
+	<render_show_cascades>0</render_show_cascades>
+	<render_show_decals>0</render_show_decals>
+	<render_show_dynamic>0</render_show_dynamic>
+	<render_show_geodetic_pivot>0</render_show_geodetic_pivot>
+	<render_show_landscape_albedo>0</render_show_landscape_albedo>
+	<render_show_landscape_mask>0</render_show_landscape_mask>
+	<render_show_landscape_terrain_vt_streaming>0</render_show_landscape_terrain_vt_streaming>
+	<render_show_lightmap_checker>0</render_show_lightmap_checker>
+	<render_show_occluder>0</render_show_occluder>
+	<render_show_queries>0</render_show_queries>
+	<render_show_scissors>0</render_show_scissors>
+	<render_show_textures>0</render_show_textures>
+	<render_show_textures_number>7</render_show_textures_number>
+	<render_show_textures_offset>0</render_show_textures_offset>
+	<render_show_transparent>0</render_show_transparent>
+	<render_show_triangles>0</render_show_triangles>
+	<render_show_voxel_probe_visualizer>0</render_show_voxel_probe_visualizer>
+	<screenshot_extension>tga</screenshot_extension>
+	<show_fps>0</show_fps>
+	<show_profiler>0</show_profiler>
+	<show_profiler_charts>1</show_profiler_charts>
+	<show_visualizer>1</show_visualizer>
+	<visualizer_fix_flicker>1</visualizer_fix_flicker>
+	<world_handler_3d>0</world_handler_3d>
+	<world_handler_distance>500</world_handler_distance>
+	<world_show_handler>63 62 61 60 35 34 43 42 41 47 46 45 44 19 18 17 16 23 22 27 26 25 24 31 67 66 29 65 28 64 71 70 1 69 0 68 7 6 5 11 10 9 8 15 14 13 12 49 48 52 58 56</world_show_handler>
+	<world_show_spatial>0</world_show_spatial>
+	<world_show_visualizer>66 65</world_show_visualizer>
+	<console_bindings/>
+</user>

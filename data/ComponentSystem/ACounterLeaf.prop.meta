@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>ff35906c3b42b0866d50c254aecfa5ddd3843bea</guid>
+	<type>property</type>
+	<hash>bd645084</hash>
+	<runtimes>
+		<runtime id="ff35906c3b42b0866d50c254aecfa5ddd3843bea" name="ACounterLeaf" link="0" type="4"/>
+	</runtimes>
+</asset>

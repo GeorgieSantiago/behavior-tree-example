@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>f685f83d57003436fb9b674d9d8047090f2a1ca5</guid>
+	<type>property</type>
+	<hash>2bc235a</hash>
+	<runtimes>
+		<runtime id="f685f83d57003436fb9b674d9d8047090f2a1ca5" name="TInvert" link="0" type="4"/>
+	</runtimes>
+</asset>

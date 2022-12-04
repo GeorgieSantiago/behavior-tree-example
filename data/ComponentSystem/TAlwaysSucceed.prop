@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.16.0.2" name="TAlwaysSucceed" manual="1" parent_name="node_base">
+	<parameter name="target" type="node">0</parameter>
+</property>

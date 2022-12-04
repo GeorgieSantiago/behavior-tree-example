@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>e444fa50d5043c2bd38d9b0edeba8bab2d75a727</guid>
+	<type>property</type>
+	<hash>7223f6cd</hash>
+	<runtimes>
+		<runtime id="e444fa50d5043c2bd38d9b0edeba8bab2d75a727" name="TLimit" link="0" type="4"/>
+	</runtimes>
+</asset>

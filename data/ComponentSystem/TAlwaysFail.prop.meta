@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>bbdfa8867e7b1121e8f2cea0ce0f49d69c0a9bca</guid>
+	<type>property</type>
+	<hash>1a708ae</hash>
+	<runtimes>
+		<runtime id="bbdfa8867e7b1121e8f2cea0ce0f49d69c0a9bca" name="TAlwaysFail" link="0" type="4"/>
+	</runtimes>
+</asset>

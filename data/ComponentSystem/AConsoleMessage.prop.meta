@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>72e2c964f08b68ae4ade8648de4ce9423d509b11</guid>
+	<type>property</type>
+	<hash>6887633b</hash>
+	<runtimes>
+		<runtime id="72e2c964f08b68ae4ade8648de4ce9423d509b11" name="AConsoleMessage" link="0" type="4"/>
+	</runtimes>
+</asset>
