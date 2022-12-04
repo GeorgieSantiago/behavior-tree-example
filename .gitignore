@@ -1,0 +1,13 @@
+.thumbnails
+bin
+data/.thumbnails
+data/microprofile_dump_html
+junk
+obj
+source/x64
+CMakeCache.txt
+source/**/*.obj
+unigine_editor.cfg
+*.cache
+*.modified
+*.tlog
